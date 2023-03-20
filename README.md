@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **kavangandhi1@gmail.com**
 
-- ⚡ Fun fact **I think I have a good sense of humour**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kavan_gandhi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavan_gandhi1" height="30" width="40" /></a>
