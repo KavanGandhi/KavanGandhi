@@ -9,10 +9,10 @@
 
 - 🌱 I’m currently learning **Database Management System and Backend for web development**
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript,C,C++,Java**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, C, C++, Java**
 
 - 📫 How to reach me **kavangandhi1@gmail.com**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kavan_gandhi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavan_gandhi1" height="30" width="40" /></a>
