@@ -34,4 +34,3 @@
 
 Snake 🐍 Eating by contribution Graph
 ![Snake animation](https://github.com/KavanGandhi/KavanGandhi/blob/output/github-contribution-grid-snake.svg)
-
